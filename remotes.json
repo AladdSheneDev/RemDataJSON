@@ -12,229 +12,13 @@
     ]
   },
   {
-    "model": "OLED55CXPUA",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (OLED55CXPUA)",
-        "url": "https://lgparts.com/products/oled55cxpua-television-remote-control"
-      }
-    ]
-  },
-  {
-    "model": "KD-55X750H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX600U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81l%2B4t8n%2BzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX600U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX600U-Remote-Control/dp/B07Y5K8T3G"
-      }
-    ]
-  },
-  {
-    "model": "E55-C1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Vizio-XRT136-Universal-Remote-Control/dp/B01M7Z8Z6N"
-      }
-    ]
-  },
-  {
-    "model": "UN65NU8000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN65NU8000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "55UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (55UN7300PUF)",
-        "url": "https://lgparts.com/products/akb75855501-television-remote-control"
-      }
-    ]
-  },
-  {
-    "model": "KD-65X750H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX600U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81l%2B4t8n%2BzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX600U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX600U-Remote-Control/dp/B07Y5K8T3G"
-      }
-    ]
-  },
-  {
-    "model": "M50-C1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Vizio-XRT136-Universal-Remote-Control/dp/B01M7Z8Z6N"
-      }
-    ]
-  },
-  {
-    "model": "UN55NU8000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN55NU8000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "65UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (65UN7300PUF)",
-        "url": "https://lgparts.com/products/akb75855501-television-remote-control"
-      }
-    ]
-  },
-  {
-    "model": "KD-75X750H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX600U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81l%2B4t8n%2BzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX600U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX600U-Remote-Control/dp/B07Y5K8T3G"
-      }
-    ]
-  },
-  {
-    "model": "M65-C1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Vizio-XRT136-Universal-Remote-Control/dp/B01M7Z8Z6N"
-      }
-    ]
-  },
-  {
-    "model": "UN65NU8000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN65NU8000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "55UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (55UN7300PUF)",
-        "url": "https://lgparts.com/products/akb75855501-television-remote-control"
-      }
-    ]
-  },
-  {
-    "model": "KD-65X750H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX600U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81l%2B4t8n%2BzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX600U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX600U-Remote-Control/dp/B07Y5K8T3G"
-      }
-    ]
-  },
-  {
-    "model": "M50-C1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Vizio-XRT136-Universal-Remote-Control/dp/B01M7Z8Z6N"
-      }
-    ]
-  },
-  {
-    "model": "UN55NU8000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN55NU8000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "65UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (65UN7300PUF)",
-        "url": "https://lgparts.com/products/akb75855501
-      }
-   [
-  [
-  {
-    "model": "UN43TU7000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59‑01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
     "model": "UN55TU7000",
     "brand": "Samsung",
     "remote_model": "BN59-01315J",
     "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
     "buy_links": [
       {
-        "name": "Amazon (BN59‑01315J)",
+        "name": "Amazon (BN59-01315J)",
         "url": "https://www.amazon.com/BN59-01315J-UN55TU7000F/dp/B08L4G2WCH"
       }
     ]
@@ -246,7 +30,7 @@
     "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
     "buy_links": [
       {
-        "name": "Amazon (BN59‑01315J)",
+        "name": "Amazon (BN59-01315J)",
         "url": "https://www.amazon.com/BN59-01315J-UN65TU7000F/dp/B08L4G2WCH"
       }
     ]
@@ -258,7 +42,7 @@
     "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
     "buy_links": [
       {
-        "name": "Amazon (BN59‑01315J)",
+        "name": "Amazon (BN59-01315J)",
         "url": "https://www.amazon.com/BN59-01315J-UN50TU7000F/dp/B08L4G2WCH"
       }
     ]
@@ -270,7 +54,7 @@
     "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81l%2B4t8n%2BzL._AC_SL1500_.jpg",
     "buy_links": [
       {
-        "name": "Amazon (BN59‑01305B)",
+        "name": "Amazon (BN59-01305B)",
         "url": "https://www.amazon.com/Samsung-BN59-01305B-Replacement-Remote/dp/B09XYZ1234"
       }
     ]
@@ -327,7 +111,7 @@
     "model": "M50-C1",
     "brand": "Vizio",
     "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w+++++L._AC_SL1500_.jpg",
     "buy_links": [
       {
         "name": "Amazon (XRT136)",
@@ -339,37 +123,11 @@
     "model": "M65-C1",
     "brand": "Vizio",
     "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71w+++++L._AC_SL1500_.jpg",
     "buy_links": [
       {
         "name": "Amazon (XRT136)",
         "url": "https://www.amazon.com/Vizio-XRT136-Universal-Remote-Control/dp/B01M7Z8Z6N"
-      }
-    ]
-  }
-]
-         ]
-  },
-  {
-    "model": "OLED55CXPUA",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (AKB75855501)",
-        "url": "https://lgparts.com/products/akb75855501-television-remote-control"
-      }
-      },
-  {
-    "model": "55UM7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://www.lgparts.com/images/products/akb75855501-remote.jpg",
-    "buy_links": [
-      {
-        "name": "LG Parts (AKB75855501)",
-        "url": "https://lgparts.com/products/akb75855501-television-remote-control"
       }
     ]
   },
@@ -385,6 +143,4 @@
       }
     ]
   }
-
-
- 
+]
