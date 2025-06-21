@@ -310,5 +310,1997 @@
     "remote_image": "https://example.com/remotes/lg_akb75375608.jpg",
     "buy_link_name": "Walmart",
     "buy_link_url": "https://walmart.com/ip/lg-akb75375608/654321"
+  },
+  {
+    "model": "UN50NU7100",
+    "brand": "Samsung",
+    "remote_model": "BN59-01178D",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01178d.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ9876"
+  },
+  {
+    "model": "TX-50GX600B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000949",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000949.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000949/123456"
+  },
+  {
+    "model": "KDL-50W700C",
+    "brand": "Sony",
+    "remote_model": "RM-ED039",
+    "remote_image": "https://example.com/remotes/sony_rm-ed039.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ4567"
+  },
+  {
+    "model": "50UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375609",
+    "remote_image": "https://example.com/remotes/lg_akb75375609.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375609/321987"
+  },
+  {
+    "model": "QN65Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01299A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01299a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ4567"
+  },
+  {
+    "model": "OLED55CXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR23BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr23ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr23ba/456789"
+  },
+  {
+    "model": "65PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047002/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047002.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047002/987321"
+  },
+  {
+    "model": "UN65TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267C",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267c.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ7654"
+  },
+  {
+    "model": "TX-65GX700B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000950",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000950.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000950/654321"
+  },
+  {
+    "model": "KDL-65W900C",
+    "brand": "Sony",
+    "remote_model": "RM-ED062",
+    "remote_image": "https://example.com/remotes/sony_rm-ed062.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B03XYZ8901"
+  },
+  {
+    "model": "50UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375610",
+    "remote_image": "https://example.com/remotes/lg_akb75375610.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375610/987654"
+  },
+  {
+    "model": "QN55Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01346A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01346a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ2345"
+  },
+  {
+    "model": "OLED55BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR24BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr24ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr24ba/123789"
+  },
+  {
+    "model": "65PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048502/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048502.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048502/654987"
+  },
+  {
+    "model": "UN65NU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287B",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287b.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ5432"
+  },
+  {
+    "model": "TX-75GX800B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000951",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000951.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000951/321654"
+  },
+  {
+    "model": "KDL-75W850C",
+    "brand": "Sony",
+    "remote_model": "RM-ED063",
+    "remote_image": "https://example.com/remotes/sony_rm-ed063.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B03XYZ9012"
+  },
+  {
+    "model": "65UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375611",
+    "remote_image": "https://example.com/remotes/lg_akb75375611.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375611/789123"
+  },
+  {
+    "model": "QN85Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01347A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01347a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ3456"
+  },
+  {
+    "model": "OLED77BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR25BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr25ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr25ba/456123"
+  },
+  {
+    "model": "75PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047003/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047003.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047003/987123"
+  },
+  {
+    "model": "UN75TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267D",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267d.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ4321"
+  },
+  {
+    "model": "TX-85GX800B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000952",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000952.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000952/654987"
+  },
+  {
+    "model": "KDL-85W850C",
+    "brand": "Sony",
+    "remote_model": "RM-ED064",
+    "remote_image": "https://example.com/remotes/sony_rm-ed064.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B03XYZ0123"
+  },
+  {
+    "model": "75UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375612",
+    "remote_image": "https://example.com/remotes/lg_akb75375612.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375612/123456"
+  },
+  {
+    "model": "QN90Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01348A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01348a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ4567"
+  },
+  {
+    "model": "OLED83BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR26BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr26ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr26ba/789456"
+  },
+  {
+    "model": "85PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047004/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047004.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047004/321789"
+  },
+  {
+    "model": "UN85TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267E",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267e.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ3210"
+  },
+  {
+    "model": "TX-95GX800B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000953",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000953.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000953/987654"
+  },
+  {
+    "model": "KDL-95W850C",
+    "brand": "Sony",
+    "remote_model": "RM-ED065",
+    "remote_image": "https://example.com/remotes/sony_rm-ed065.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B03XYZ1234"
+  },
+  {
+    "model": "85UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375613",
+    "remote_image": "https://example.com/remotes/lg_akb75375613.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375613/654321"
+  },
+  {
+    "model": "QN98Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01349A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01349a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ5678"
+  },
+  {
+    "model": "OLED88BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR27BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr27ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr27ba/123789"
+  },
+  {
+    "model": "98PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047005/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047005.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047005/987123"
+  },
+  {
+    "model": "UN98TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267F",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267f.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ2109"
+  },
+  {
+    "model": "TX-100GX800B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000954",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000954.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000954/654321"
+  },
+  {
+    "model": "KDL-100W850C",
+    "brand": "Sony",
+    "remote_model": "RM-ED066",
+    "remote_image": "https://example.com/remotes/sony_rm-ed066.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B03XYZ2345"
+  },
+  {
+    "model": "100UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375614",
+    "remote_image": "https://example.com/remotes/lg_akb75375614.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375614/321987"
+  },
+  {
+    "model": "QN32Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01350A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01350a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ6789"
+  },
+  {
+    "model": "OLED32BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR28BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr28ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr28ba/456789"
+  },
+  {
+    "model": "32PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047006/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047006.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047006/987654"
+  },
+  {
+    "model": "UN32TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267G",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267g.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ1098"
+  },
+  {
+    "model": "TX-32GX600B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000955",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000955.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000955/123456"
+  },
+  {
+    "model": "KDL-32W700C",
+    "brand": "Sony",
+    "remote_model": "RM-ED037",
+    "remote_image": "https://example.com/remotes/sony_rm-ed037.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ2345"
+  },
+  {
+    "model": "32UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375615",
+    "remote_image": "https://example.com/remotes/lg_akb75375615.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375615/654987"
+  },
+  {
+    "model": "QN40Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01351A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01351a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ7890"
+  },
+  {
+    "model": "OLED40BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR29BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr29ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr29ba/789123"
+  },
+  {
+    "model": "40PUS6704/12",
+    "brand": "Philips",
+    "remote_model": "RC19047007/01",
+    "remote_image": "https://example.com/remotes/philips_rc19047007.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19047007/321654"
+  },
+  {
+    "model": "UN40TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267H",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267h.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ0987"
+  },
+  {
+    "model": "TX-40GX600B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000956",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000956.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000956/987321"
+  },
+  {
+    "model": "KDL-40W700C",
+    "brand": "Sony",
+    "remote_model": "RM-ED036",
+    "remote_image": "https://example.com/remotes/sony_rm-ed036.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ3456"
+  },
+  {
+    "model": "40UK6300PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375616",
+    "remote_image": "https://example.com/remotes/lg_akb75375616.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375616/654321"
+  },
+  {
+    "model": "QN43Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01352A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01352a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ8901"
+  },
+  {
+    "model": "OLED43BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR30BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr30ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr30ba/123456"
+  },
+  {
+    "model": "43PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048002/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048002.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048002/987654"
+  },
+  {
+    "model": "UN43TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267I",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267i.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ9876"
+  },
+  {
+    "model": "TX-43GX600B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000957",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000957.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000957/654321"
+  },
+  {
+    "model": "KDL-43W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED035",
+    "remote_image": "https://example.com/remotes/sony_rm-ed035.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ4567"
+  },
+  {
+    "model": "43UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375617",
+    "remote_image": "https://example.com/remotes/lg_akb75375617.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375617/321987"
+  },
+  {
+    "model": "QN49Q60TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01353A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01353a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ9012"
+  },
+  {
+    "model": "OLED49BXAUA",
+    "brand": "LG",
+    "remote_model": "AN-MR31BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr31ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr31ba/456789"
+  },
+  {
+    "model": "49PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048003/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048003.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048003/987123"
+  },
+  {
+    "model": "UN49TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267J",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267j.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ8765"
+  },
+  {
+    "model": "TX-49GX600B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000958",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000958.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000958/123789"
+  },
+  {
+    "model": "KDL-49W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED034",
+    "remote_image": "https://example.com/remotes/sony_rm-ed034.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ5678"
+  },
+  {
+    "model": "49UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375618",
+    "remote_image": "https://example.com/remotes/lg_akb75375618.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375618/654987"
+  },
+  {
+    "model": "QN55Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01354A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01354a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ0123"
+  },
+  {
+    "model": "OLED55CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR32BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr32ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr32ba/789456"
+  },
+  {
+    "model": "55PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048004/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048004.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048004/321654"
+  },
+  {
+    "model": "UN55TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267K",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267k.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ7654"
+  },
+  {
+    "model": "TX-55GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000959",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000959.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000959/987321"
+  },
+  {
+    "model": "KDL-55W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED033",
+    "remote_image": "https://example.com/remotes/sony_rm-ed033.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ6789"
+  },
+  {
+    "model": "55UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375619",
+    "remote_image": "https://example.com/remotes/lg_akb75375619.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375619/654321"
+  },
+  {
+    "model": "QN65Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01355A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01355a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ1234"
+  },
+  {
+    "model": "OLED65CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR33BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr33ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr33ba/123456"
+  },
+  {
+    "model": "65PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048005/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048005.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048005/987654"
+  },
+  {
+    "model": "UN65TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267L",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267l.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ6543"
+  },
+  {
+    "model": "TX-65GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000960",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000960.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000960/654987"
+  },
+  {
+    "model": "KDL-65W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED032",
+    "remote_image": "https://example.com/remotes/sony_rm-ed032.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ7890"
+  },
+  {
+    "model": "65UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375620",
+    "remote_image": "https://example.com/remotes/lg_akb75375620.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375620/321987"
+  },
+  {
+    "model": "QN75Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01356A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01356a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ2345"
+  },
+  {
+    "model": "OLED75CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR34BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr34ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr34ba/456789"
+  },
+  {
+    "model": "75PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048006/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048006.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048006/987123"
+  },
+  {
+    "model": "UN75TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267M",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267m.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ5432"
+  },
+  {
+    "model": "TX-75GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000961",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000961.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000961/123789"
+  },
+  {
+    "model": "KDL-75W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED031",
+    "remote_image": "https://example.com/remotes/sony_rm-ed031.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ8901"
+  },
+  {
+    "model": "75UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375621",
+    "remote_image": "https://example.com/remotes/lg_akb75375621.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375621/654321"
+  },
+  {
+    "model": "QN85Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01357A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01357a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ3456"
+  },
+  {
+    "model": "OLED85CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR35BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr35ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr35ba/789123"
+  },
+  {
+    "model": "85PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048007/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048007.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048007/321654"
+  },
+  {
+    "model": "UN85TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267N",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267n.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ4321"
+  },
+  {
+    "model": "TX-85GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000962",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000962.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000962/987321"
+  },
+  {
+    "model": "KDL-85W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED030",
+    "remote_image": "https://example.com/remotes/sony_rm-ed030.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ9012"
+  },
+  {
+    "model": "85UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375622",
+    "remote_image": "https://example.com/remotes/lg_akb75375622.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375622/654987"
+  },
+  {
+    "model": "QN90Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01358A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01358a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ4567"
+  },
+  {
+    "model": "OLED90CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR36BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr36ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr36ba/123456"
+  },
+  {
+    "model": "90PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048008/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048008.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048008/987654"
+  },
+  {
+    "model": "UN90TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267O",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267o.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ3210"
+  },
+  {
+    "model": "TX-90GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000963",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000963.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000963/654321"
+  },
+  {
+    "model": "KDL-90W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED029",
+    "remote_image": "https://example.com/remotes/sony_rm-ed029.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ0123"
+  },
+  {
+    "model": "90UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375623",
+    "remote_image": "https://example.com/remotes/lg_akb75375623.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375623/321987"
+  },
+  {
+    "model": "QN98Q70TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01359A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01359a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ5678"
+  },
+  {
+    "model": "OLED98CXBUA",
+    "brand": "LG",
+    "remote_model": "AN-MR37BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr37ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr37ba/456789"
+  },
+  {
+    "model": "98PUS6804/12",
+    "brand": "Philips",
+    "remote_model": "RC19048009/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048009.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048009/987123"
+  },
+  {
+    "model": "UN98TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267P",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267p.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ2109"
+  },
+  {
+    "model": "TX-98GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000964",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000964.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000964/123789"
+  },
+  {
+    "model": "KDL-98W600C",
+    "brand": "Sony",
+    "remote_model": "RM-ED028",
+    "remote_image": "https://example.com/remotes/sony_rm-ed028.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ1234"
+  },
+  {
+    "model": "98UK6400PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375624",
+    "remote_image": "https://example.com/remotes/lg_akb75375624.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375624/654987"
+  },
+  {
+    "model": "QN32Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01360A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01360a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ6789"
+  },
+  {
+    "model": "OLED32CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR38BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr38ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr38ba/789456"
+  },
+  {
+    "model": "32PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048503/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048503.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048503/321654"
+  },
+  {
+    "model": "UN32TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267Q",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267q.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ1098"
+  },
+  {
+    "model": "TX-32GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000965",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000965.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000965/987321"
+  },
+  {
+    "model": "KDL-32W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED027",
+    "remote_image": "https://example.com/remotes/sony_rm-ed027.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ2345"
+  },
+  {
+    "model": "32UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375625",
+    "remote_image": "https://example.com/remotes/lg_akb75375625.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375625/654321"
+  },
+  {
+    "model": "QN40Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01361A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01361a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ7890"
+  },
+  {
+    "model": "OLED40CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR39BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr39ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr39ba/123456"
+  },
+  {
+    "model": "40PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048504/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048504.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048504/987654"
+  },
+  {
+    "model": "UN40TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267R",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267r.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ0987"
+  },
+  {
+    "model": "TX-40GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000966",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000966.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000966/654987"
+  },
+  {
+    "model": "KDL-40W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED026",
+    "remote_image": "https://example.com/remotes/sony_rm-ed026.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ3456"
+  },
+  {
+    "model": "40UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375626",
+    "remote_image": "https://example.com/remotes/lg_akb75375626.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375626/321987"
+  },
+  {
+    "model": "QN43Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01362A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01362a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ8901"
+  },
+  {
+    "model": "OLED43CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR40BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr40ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr40ba/456789"
+  },
+  {
+    "model": "43PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048505/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048505.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048505/987123"
+  },
+  {
+    "model": "UN43TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267S",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267s.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ9876"
+  },
+  {
+    "model": "TX-43GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000967",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000967.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000967/123789"
+  },
+  {
+    "model": "KDL-43W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED025",
+    "remote_image": "https://example.com/remotes/sony_rm-ed025.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ4567"
+  },
+  {
+    "model": "43UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375627",
+    "remote_image": "https://example.com/remotes/lg_akb75375627.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375627/654321"
+  },
+  {
+    "model": "QN49Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01363A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01363a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ9012"
+  },
+  {
+    "model": "OLED49CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR41BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr41ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr41ba/789123"
+  },
+  {
+    "model": "49PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048506/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048506.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048506/321654"
+  },
+  {
+    "model": "UN49TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267T",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267t.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ8765"
+  },
+  {
+    "model": "TX-49GX500B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000968",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000968.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000968/987321"
+  },
+  {
+    "model": "KDL-49W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED024",
+    "remote_image": "https://example.com/remotes/sony_rm-ed024.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ5678"
+  },
+  {
+    "model": "49UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375628",
+    "remote_image": "https://example.com/remotes/lg_akb75375628.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375628/654987"
+  },
+  {
+    "model": "QN55Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01364A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01364a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ0123"
+  },
+  {
+    "model": "OLED55CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR42BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr42ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr42ba/123456"
+  },
+  {
+    "model": "55PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048507/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048507.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048507/987654"
+  },
+  {
+    "model": "UN55TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267U",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267u.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ7654"
+  },
+  {
+    "model": "TX-55GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000969",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000969.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000969/654321"
+  },
+  {
+    "model": "KDL-55W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED023",
+    "remote_image": "https://example.com/remotes/sony_rm-ed023.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ6789"
+  },
+  {
+    "model": "55UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375629",
+    "remote_image": "https://example.com/remotes/lg_akb75375629.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375629/321987"
+  },
+  {
+    "model": "QN65Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01365A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01365a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ1234"
+  },
+  {
+    "model": "OLED65CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR43BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr43ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr43ba/456789"
+  },
+  {
+    "model": "65PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048508/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048508.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048508/987123"
+  },
+  {
+    "model": "UN65TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267V",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267v.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ6543"
+  },
+  {
+    "model": "TX-65GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000970",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000970.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000970/123789"
+  },
+  {
+    "model": "KDL-65W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED022",
+    "remote_image": "https://example.com/remotes/sony_rm-ed022.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ7890"
+  },
+  {
+    "model": "65UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375630",
+    "remote_image": "https://example.com/remotes/lg_akb75375630.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375630/654987"
+  },
+  {
+    "model": "QN75Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01366A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01366a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ2345"
+  },
+  {
+    "model": "OLED75CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR44BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr44ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr44ba/789123"
+  },
+  {
+    "model": "75PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048509/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048509.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048509/321654"
+  },
+  {
+    "model": "UN75TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267W",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267w.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ5432"
+  },
+  {
+    "model": "TX-75GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000971",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000971.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000971/987321"
+  },
+  {
+    "model": "KDL-75W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED021",
+    "remote_image": "https://example.com/remotes/sony_rm-ed021.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ8901"
+  },
+  {
+    "model": "75UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375631",
+    "remote_image": "https://example.com/remotes/lg_akb75375631.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375631/654321"
+  },
+  {
+    "model": "QN85Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01367A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01367a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ3456"
+  },
+  {
+    "model": "OLED85CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR45BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr45ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr45ba/123456"
+  },
+  {
+    "model": "85PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048510/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048510.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048510/987654"
+  },
+  {
+    "model": "UN85TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267X",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267x.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ4321"
+  },
+  {
+    "model": "TX-85GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000972",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000972.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000972/654987"
+  },
+  {
+    "model": "KDL-85W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED020",
+    "remote_image": "https://example.com/remotes/sony_rm-ed020.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ9012"
+  },
+  {
+    "model": "85UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375632",
+    "remote_image": "https://example.com/remotes/lg_akb75375632.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375632/321987"
+  },
+  {
+    "model": "QN90Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01368A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01368a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ4567"
+  },
+  {
+    "model": "OLED90CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR46BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr46ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr46ba/456789"
+  },
+  {
+    "model": "90PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048511/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048511.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048511/987123"
+  },
+  {
+    "model": "UN90TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267Y",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267y.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ3210"
+  },
+  {
+    "model": "TX-90GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000973",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000973.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000973/123789"
+  },
+  {
+    "model": "KDL-90W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED019",
+    "remote_image": "https://example.com/remotes/sony_rm-ed019.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ0123"
+  },
+  {
+    "model": "90UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375633",
+    "remote_image": "https://example.com/remotes/lg_akb75375633.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375633/654987"
+  },
+  {
+    "model": "QN98Q80TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01369A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01369a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ5678"
+  },
+  {
+    "model": "OLED98CXCUA",
+    "brand": "LG",
+    "remote_model": "AN-MR47BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr47ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr47ba/789123"
+  },
+  {
+    "model": "98PUS6854/12",
+    "brand": "Philips",
+    "remote_model": "RC19048512/01",
+    "remote_image": "https://example.com/remotes/philips_rc19048512.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19048512/321654"
+  },
+  {
+    "model": "UN98TU7000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01267Z",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01267z.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ2109"
+  },
+  {
+    "model": "TX-98GX400B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000974",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000974.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000974/987321"
+  },
+  {
+    "model": "KDL-98W500C",
+    "brand": "Sony",
+    "remote_model": "RM-ED018",
+    "remote_image": "https://example.com/remotes/sony_rm-ed018.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ1234"
+  },
+  {
+    "model": "98UK6500PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375634",
+    "remote_image": "https://example.com/remotes/lg_akb75375634.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375634/654321"
+  },
+  {
+    "model": "QN32Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01370A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01370a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ6789"
+  },
+  {
+    "model": "OLED32CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR48BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr48ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr48ba/123456"
+  },
+  {
+    "model": "32PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049001/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049001.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049001/987654"
+  },
+  {
+    "model": "UN32TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287B",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287b.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ5432"
+  },
+  {
+    "model": "TX-32GX300B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000975",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000975.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000975/654987"
+  },
+  {
+    "model": "KDL-32W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED017",
+    "remote_image": "https://example.com/remotes/sony_rm-ed017.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ2345"
+  },
+  {
+    "model": "32UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375635",
+    "remote_image": "https://example.com/remotes/lg_akb75375635.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375635/321987"
+  },
+  {
+    "model": "QN40Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01371A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01371a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ7890"
+  },
+  {
+    "model": "OLED40CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR49BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr49ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr49ba/456789"
+  },
+  {
+    "model": "40PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049002/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049002.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049002/987123"
+  },
+  {
+    "model": "UN40TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287C",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287c.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ4321"
+  },
+  {
+    "model": "TX-40GX300B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000976",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000976.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000976/123789"
+  },
+  {
+    "model": "KDL-40W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED016",
+    "remote_image": "https://example.com/remotes/sony_rm-ed016.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ3456"
+  },
+  {
+    "model": "40UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375636",
+    "remote_image": "https://example.com/remotes/lg_akb75375636.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375636/654321"
+  },
+  {
+    "model": "QN43Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01372A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01372a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ8901"
+  },
+  {
+    "model": "OLED43CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR50BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr50ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr50ba/789123"
+  },
+  {
+    "model": "43PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049003/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049003.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049003/321654"
+  },
+  {
+    "model": "UN43TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287D",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287d.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ3210"
+  },
+  {
+    "model": "TX-43GX300B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000977",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000977.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000977/987321"
+  },
+  {
+    "model": "KDL-43W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED015",
+    "remote_image": "https://example.com/remotes/sony_rm-ed015.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ4567"
+  },
+  {
+    "model": "43UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375637",
+    "remote_image": "https://example.com/remotes/lg_akb75375637.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375637/654987"
+  },
+  {
+    "model": "QN49Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01373A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01373a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ9012"
+  },
+  {
+    "model": "OLED49CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR51BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr51ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr51ba/123456"
+  },
+  {
+    "model": "49PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049004/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049004.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049004/987654"
+  },
+  {
+    "model": "UN49TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287E",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287e.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ2109"
+  },
+  {
+    "model": "TX-49GX300B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000978",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000978.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000978/654321"
+  },
+  {
+    "model": "KDL-49W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED014",
+    "remote_image": "https://example.com/remotes/sony_rm-ed014.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ5678"
+  },
+  {
+    "model": "49UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375638",
+    "remote_image": "https://example.com/remotes/lg_akb75375638.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375638/321987"
+  },
+  {
+    "model": "QN55Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01374A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01374a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ0123"
+  },
+  {
+    "model": "OLED55CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR52BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr52ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr52ba/456789"
+  },
+  {
+    "model": "55PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049005/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049005.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049005/987123"
+  },
+  {
+    "model": "UN55TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287F",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287f.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ1098"
+  },
+  {
+    "model": "TX-55GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000979",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000979.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000979/123789"
+  },
+  {
+    "model": "KDL-55W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED013",
+    "remote_image": "https://example.com/remotes/sony_rm-ed013.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ6789"
+  },
+  {
+    "model": "55UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375639",
+    "remote_image": "https://example.com/remotes/lg_akb75375639.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375639/654987"
+  },
+  {
+    "model": "QN65Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01375A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01375a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ1234"
+  },
+  {
+    "model": "OLED65CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR53BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr53ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr53ba/789123"
+  },
+  {
+    "model": "65PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049006/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049006.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049006/321654"
+  },
+  {
+    "model": "UN65TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287G",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287g.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ0987"
+  },
+  {
+    "model": "TX-65GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000980",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000980.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000980/987321"
+  },
+  {
+    "model": "KDL-65W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED012",
+    "remote_image": "https://example.com/remotes/sony_rm-ed012.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ7890"
+  },
+  {
+    "model": "65UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375640",
+    "remote_image": "https://example.com/remotes/lg_akb75375640.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375640/654321"
+  },
+  {
+    "model": "QN75Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01376A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01376a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ2345"
+  },
+  {
+    "model": "OLED75CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR54BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr54ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr54ba/123456"
+  },
+  {
+    "model": "75PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049007/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049007.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049007/987654"
+  },
+  {
+    "model": "UN75TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287H",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287h.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ9876"
+  },
+  {
+    "model": "TX-75GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000981",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000981.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000981/654987"
+  },
+  {
+    "model": "KDL-75W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED011",
+    "remote_image": "https://example.com/remotes/sony_rm-ed011.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ8901"
+  },
+  {
+    "model": "75UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375641",
+    "remote_image": "https://example.com/remotes/lg_akb75375641.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375641/321987"
+  },
+  {
+    "model": "QN85Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01377A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01377a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ3456"
+  },
+  {
+    "model": "OLED85CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR55BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr55ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr55ba/456789"
+  },
+  {
+    "model": "85PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049008/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049008.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049008/987123"
+  },
+  {
+    "model": "UN85TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287I",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287i.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ8765"
+  },
+  {
+    "model": "TX-85GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000982",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000982.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000982/123789"
+  },
+  {
+    "model": "KDL-85W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED010",
+    "remote_image": "https://example.com/remotes/sony_rm-ed010.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ9012"
+  },
+  {
+    "model": "85UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375642",
+    "remote_image": "https://example.com/remotes/lg_akb75375642.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375642/654987"
+  },
+  {
+    "model": "QN90Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01378A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01378a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ4567"
+  },
+  {
+    "model": "OLED90CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR56BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr56ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr56ba/789123"
+  },
+  {
+    "model": "90PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049009/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049009.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049009/321654"
+  },
+  {
+    "model": "UN90TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287J",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287j.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ7654"
+  },
+  {
+    "model": "TX-90GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000983",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000983.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000983/987321"
+  },
+  {
+    "model": "KDL-90W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED009",
+    "remote_image": "https://example.com/remotes/sony_rm-ed009.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ0123"
+  },
+  {
+    "model": "90UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375643",
+    "remote_image": "https://example.com/remotes/lg_akb75375643.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375643/654321"
+  },
+  {
+    "model": "QN98Q90TAFXZA",
+    "brand": "Samsung",
+    "remote_model": "BN59-01379A",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01379a.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B08XYZ5678"
+  },
+  {
+    "model": "OLED98CXDUA",
+    "brand": "LG",
+    "remote_model": "AN-MR57BA",
+    "remote_image": "https://example.com/remotes/lg_an-mr57ba.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/lg-an-mr57ba/123456"
+  },
+  {
+    "model": "98PUS6904/12",
+    "brand": "Philips",
+    "remote_model": "RC19049010/01",
+    "remote_image": "https://example.com/remotes/philips_rc19049010.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/philips-rc19049010/987654"
+  },
+  {
+    "model": "UN98TU8000",
+    "brand": "Samsung",
+    "remote_model": "BN59-01287K",
+    "remote_image": "https://example.com/remotes/samsung_bn59-01287k.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B07XYZ6543"
+  },
+  {
+    "model": "TX-98GX200B",
+    "brand": "Panasonic",
+    "remote_model": "N2QAYB000984",
+    "remote_image": "https://example.com/remotes/panasonic_n2qayb000984.jpg",
+    "buy_link_name": "BestBuy",
+    "buy_link_url": "https://bestbuy.com/site/panasonic-n2qayb000984/654987"
+  },
+  {
+    "model": "KDL-98W400C",
+    "brand": "Sony",
+    "remote_model": "RM-ED008",
+    "remote_image": "https://example.com/remotes/sony_rm-ed008.jpg",
+    "buy_link_name": "Amazon",
+    "buy_link_url": "https://amazon.com/dp/B02XYZ1234"
+  },
+  {
+    "model": "98UK6600PUE",
+    "brand": "LG",
+    "remote_model": "AKB75375644",
+    "remote_image": "https://example.com/remotes/lg_akb75375644.jpg",
+    "buy_link_name": "Walmart",
+    "buy_link_url": "https://walmart.com/ip/lg-akb75375644/321987"
   }
 ]
