@@ -952,7 +952,7 @@
         "brand": "LG",
         "remote_model": "AKB75855501",
         "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-        "buy_links": [
+              "buy_links": [
             {
                 "name": "Amazon (AKB75855501)",
                 "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
@@ -960,5 +960,3 @@
         ]
     }
 ]
-
-
