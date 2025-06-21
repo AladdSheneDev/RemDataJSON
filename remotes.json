@@ -1,960 +1,964 @@
 [
-  {
-    "model": "UN43TU7000",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "50LF6100",
-    "brand": "LG",
-    "remote_model": "AKB75095307",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61lW2fG1MNL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75095307)",
-        "url": "https://www.amazon.com/LG-AKB75095307-Remote-Control/dp/B07YV1Y9KJ"
-      }
-    ]
-  },
-  {
-    "model": "V505-G9",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "32S325",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-39DF310NA21",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-21",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-21)",
-        "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
-      }
-    ]
-  },
-  {
-    "model": "QN55Q60TAFXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01301A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01301A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
-      }
-    ]
-  },
-  {
-    "model": "43UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "D32h-F1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61Yk2RfXUzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Replacement-XRT136-Remote-Vizio-D32h-F1/dp/B07DK8S7YT"
-      }
-    ]
-  },
-  {
-    "model": "49S405",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-55DF710NA21",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-21",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-21)",
-        "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
-      }
-    ]
-  },
-  {
-    "model": "65UK6090PUA",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-55X800H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "E43-F1",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN50TU8000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01357A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01357A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-      }
-    ]
-  },
-  {
-    "model": "43S435",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-50DF710NA21",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-21",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-21)",
-        "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
-      }
-    ]
-  },
-  {
-    "model": "50S425",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "55R617",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "UN65RU7100FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01301A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01301A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
-      }
-    ]
-  },
-  {
-    "model": "D50x-G9",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "43UN7000PUB",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-49X800G",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "D43f-F1",
-    "brand": "Vizio",
-    "remote_model": "XRT136",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61Yk2RfXUzL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT136)",
-        "url": "https://www.amazon.com/Replacement-XRT136-Remote-Vizio-D32h-F1/dp/B07DK8S7YT"
-      }
-    ]
-  },
-  {
-    "model": "UN55TU7000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "75S425",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-39DF510NA19",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-19",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-19)",
-        "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
-      }
-    ]
-  },
-  {
-    "model": "60UK6090PUA",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-55X950G",
-    "brand": "Sony",
-    "remote_model": "RMF-TX600U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61KfB0E5g2L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX600U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX600U-Replacement-Remote-Control/dp/B07QN5Z6Y8"
-      }
-    ]
-  },
-  {
-    "model": "V505-H19",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN65TU8000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01357A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01357A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-      }
-    ]
-  },
-  {
-    "model": "55UN7300PUF",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-65X800G",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "D24h-G9",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN43TU8000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01357A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01357A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-      }
-    ]
-  },
-  {
-    "model": "43S425",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-55DF710NA19",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-19",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-19)",
-        "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
-      }
-    ]
-  },
-  {
-    "model": "65UK6300PUE",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-43X800H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "D32f-G1",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN55RU7100FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01301A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01301A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
-      }
-    ]
-  },
-  {
-    "model": "65UN6950ZUA",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-75X900F",
-    "brand": "Sony",
-    "remote_model": "RMF-TX310U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX310U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
-      }
-    ]
-  },
-  {
-    "model": "V556-G1",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN65TU7000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01315J",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01315J)",
-        "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
-      }
-    ]
-  },
-  {
-    "model": "55S425",
-    "brand": "TCL",
-    "remote_model": "RC280",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC280)",
-        "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
-      }
-    ]
-  },
-  {
-    "model": "NS-50DF710NA19",
-    "brand": "Insignia",
-    "remote_model": "NS-RCFNA-19",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RCFNA-19)",
-        "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
-      }
-    ]
-  },
-  {
-    "model": "50UK6500AUA",
-    "brand": "LG",
-    "remote_model": "AKB75375604",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75375604)",
-        "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
-      }
-    ]
-  },
-  {
-    "model": "XBR-55X900H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "V705-H13",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "UN75TU8000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01357A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01357A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-      }
-    ]
-  },
-  {
-    "model": "UN50AU8000FXZA",
-    "brand": "Samsung",
-    "remote_model": "BN59-01357A",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01357A)",
-        "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-      }
-    ]
-  },
-  {
-    "model": "OLED55CXPUA",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75855501)",
-        "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
-      }
-    ]
-  },
-  {
-    "model": "XBR-65A8H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX810U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61fG0LJvMEL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX810U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX810U-Replacement-Remote-Control/dp/B08F4DTQ8Z"
-      }
-    ]
-  },
-  {
-    "model": "M55Q7-J01",
-    "brand": "Vizio",
-    "remote_model": "XRT140",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT140)",
-        "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-      }
-    ]
-  },
-  {
-    "model": "50S535",
-    "brand": "TCL",
-    "remote_model": "RC580",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RC580)",
-        "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
-      }
-    ]
-  },
-  {
-    "model": "NS-55F301NA22",
-    "brand": "Insignia",
-    "remote_model": "NS-RC4NA-18",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (NS-RC4NA-18)",
-        "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
-      }
-    ]
-  },
-  {
-    "model": "QN85A",
-    "brand": "Samsung",
-    "remote_model": "BN59-01385B",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (BN59-01385B)",
-        "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
-      }
-    ]
-  },
-  {
-    "model": "OLED65B1PUA",
-    "brand": "LG",
-    "remote_model": "AKB75855501",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (AKB75855501)",
-        "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
-      }
-    ]
-  },
-  {
-    "model": "XBR-55X900H",
-    "brand": "Sony",
-    "remote_model": "RMF-TX500U",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (RMF-TX500U)",
-        "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-      }
-    ]
-  },
-  {
-    "model": "V655-J09",
-    "brand": "Vizio",
-    "remote_model": "XRT260",
-    "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61gYQp9MHlL._AC_SL1500_.jpg",
-    "buy_links": [
-      {
-        "name": "Amazon (XRT260)",
-        "url": "https://www.amazon.com/Remote-Control-XRT260-V655-J09-V555-J01/dp/B09FPC3Z2W"
-      }
-{
-  "model": "UN55AU8000FXZA",
-  "brand": "Samsung",
-  "remote_model": "BN59-01357A",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
-  "buy_links": [
     {
-      "name": "Amazon (BN59-01357A)",
-      "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
-    }
-  ]
-},
-{
-  "model": "OLED65C1PUB",
-  "brand": "LG",
-  "remote_model": "AKB75855501",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "UN43TU7000",
+        "brand": "Samsung",
+        "remote_model": "BN59-01315J",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01315J)",
+                "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
+            }
+        ]
+    },
     {
-      "name": "Amazon (AKB75855501)",
-      "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
-    }
-  ]
-},
-{
-  "model": "XBR-75X800H",
-  "brand": "Sony",
-  "remote_model": "RMF-TX500U",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "50LF6100",
+        "brand": "LG",
+        "remote_model": "AKB75095307",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61lW2fG1MNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75095307)",
+                "url": "https://www.amazon.com/LG-AKB75095307-Remote-Control/dp/B07YV1Y9KJ"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RMF-TX500U)",
-      "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
-    }
-  ]
-},
-{
-  "model": "V755-G4",
-  "brand": "Vizio",
-  "remote_model": "XRT140",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "V505-G9",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
     {
-      "name": "Amazon (XRT140)",
-      "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-    }
-  ]
-},
-{
-  "model": "65S535",
-  "brand": "TCL",
-  "remote_model": "RC580",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "32S325",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RC580)",
-      "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
-    }
-  ]
-},
-{
-  "model": "NS-43F301NA22",
-  "brand": "Insignia",
-  "remote_model": "NS-RC4NA-18",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "NS-39DF310NA21",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-21",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-21)",
+                "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
+            }
+        ]
+    },
     {
-      "name": "Amazon (NS-RC4NA-18)",
-      "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
-    }
-  ]
-},
-{
-  "model": "QN90A",
-  "brand": "Samsung",
-  "remote_model": "BN59-01385B",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "QN55Q60TAFXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01301A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01301A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
+            }
+        ]
+    },
     {
-      "name": "Amazon (BN59-01385B)",
-      "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
-    }
-  ]
-},
-{
-  "model": "OLED77C2PUA",
-  "brand": "LG",
-  "remote_model": "AKB75855501",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "43UN7300PUF",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
     {
-      "name": "Amazon (AKB75855501)",
-      "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
-    }
-  ]
-},
-{
-  "model": "XBR-85X900F",
-  "brand": "Sony",
-  "remote_model": "RMF-TX310U",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "D32h-F1",
+        "brand": "Vizio",
+        "remote_model": "XRT136",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61Yk2RfXUzL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT136)",
+                "url": "https://www.amazon.com/Replacement-XRT136-Remote-Vizio-D32h-F1/dp/B07DK8S7YT"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RMF-TX310U)",
-      "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
-    }
-  ]
-},
-{
-  "model": "V436-H11",
-  "brand": "Vizio",
-  "remote_model": "XRT140",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "49S405",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
     {
-      "name": "Amazon (XRT140)",
-      "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
-    }
-  ]
-},
-{
-  "model": "43S535",
-  "brand": "TCL",
-  "remote_model": "RC580",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "NS-55DF710NA21",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-21",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-21)",
+                "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RC580)",
-      "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
-    }
-  ]
-},
-{
-  "model": "NS-24F202NA23",
-  "brand": "Insignia",
-  "remote_model": "NS-RC4NA-18",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "65UK6090PUA",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
     {
-      "name": "Amazon (NS-RC4NA-18)",
-      "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
-    }
-  ]
-},
-{
-  "model": "QN800A",
-  "brand": "Samsung",
-  "remote_model": "BN59-01385B",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "XBR-55X800H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
     {
-      "name": "Amazon (BN59-01385B)",
-      "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
-    }
-  ]
-},
-{
-  "model": "OLED48A1PUA",
-  "brand": "LG",
-  "remote_model": "AKB75855501",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "E43-F1",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
     {
-      "name": "Amazon (AKB75855501)",
-      "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
-    }
-  ]
-},
-{
-  "model": "XBR-65X900F",
-  "brand": "Sony",
-  "remote_model": "RMF-TX310U",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "UN50TU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RMF-TX310U)",
-      "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
-    }
-  ]
-},
-{
-  "model": "V555-J01",
-  "brand": "Vizio",
-  "remote_model": "XRT260",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61gYQp9MHlL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "43S435",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
     {
-      "name": "Amazon (XRT260)",
-      "url": "https://www.amazon.com/Remote-Control-XRT260-V655-J09-V555-J01/dp/B09FPC3Z2W"
-    }
-  ]
-},
-{
-  "model": "50S531",
-  "brand": "TCL",
-  "remote_model": "RC580",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "NS-50DF710NA21",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-21",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/51YtF3x8PdL._AC_SL1000_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-21)",
+                "url": "https://www.amazon.com/Replacement-Insignia-NS-RCFNA-21-NS-24DF310NA21-NS-39DF310NA21/dp/B08V5T3Z7L"
+            }
+        ]
+    },
     {
-      "name": "Amazon (RC580)",
-      "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
-    }
-  ]
-},
-{
-  "model": "NS-50F301NA22",
-  "brand": "Insignia",
-  "remote_model": "NS-RC4NA-18",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "50S425",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
     {
-      "name": "Amazon (NS-RC4NA-18)",
-      "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
-    }
-  ]
-},
-{
-  "model": "QN900A",
-  "brand": "Samsung",
-  "remote_model": "BN59-01385B",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "55R617",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
     {
-      "name": "Amazon (BN59-01385B)",
-      "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
-    }
-  ]
-},
-{
-  "model": "OLED77G2PUA",
-  "brand": "LG",
-  "remote_model": "AKB75855501",
-  "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
-  "buy_links": [
+        "model": "UN65RU7100FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01301A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01301A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
+            }
+        ]
+    },
     {
-      "name": "Amazon (AKB75855501)",
-      "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+        "model": "D50x-G9",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "43UN7000PUB",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-49X800G",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "D43f-F1",
+        "brand": "Vizio",
+        "remote_model": "XRT136",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61Yk2RfXUzL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT136)",
+                "url": "https://www.amazon.com/Replacement-XRT136-Remote-Vizio-D32h-F1/dp/B07DK8S7YT"
+            }
+        ]
+    },
+    {
+        "model": "UN55TU7000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01315J",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01315J)",
+                "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
+            }
+        ]
+    },
+    {
+        "model": "75S425",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
+    {
+        "model": "NS-39DF510NA19",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-19",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-19)",
+                "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
+            }
+        ]
+    },
+    {
+        "model": "60UK6090PUA",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-55X950G",
+        "brand": "Sony",
+        "remote_model": "RMF-TX600U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61KfB0E5g2L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX600U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX600U-Replacement-Remote-Control/dp/B07QN5Z6Y8"
+            }
+        ]
+    },
+    {
+        "model": "V505-H19",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "UN65TU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
+    {
+        "model": "55UN7300PUF",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-65X800G",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "D24h-G9",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "UN43TU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
+    {
+        "model": "43S425",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
+    {
+        "model": "NS-55DF710NA19",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-19",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-19)",
+                "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
+            }
+        ]
+    },
+    {
+        "model": "65UK6300PUE",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-43X800H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "D32f-G1",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "UN55RU7100FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01301A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61PZ5J1U60L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01301A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01301A-Remote-Control/dp/B085Y6WNQP"
+            }
+        ]
+    },
+    {
+        "model": "65UN6950ZUA",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-75X900F",
+        "brand": "Sony",
+        "remote_model": "RMF-TX310U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX310U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
+            }
+        ]
+    },
+    {
+        "model": "V556-G1",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "UN65TU7000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01315J",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81IyxgQM5jL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01315J)",
+                "url": "https://www.amazon.com/BN59-01315J-UN43TU7000F/dp/B08L4G2WCH"
+            }
+        ]
+    },
+    {
+        "model": "55S425",
+        "brand": "TCL",
+        "remote_model": "RC280",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61S5kA8nWwL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC280)",
+                "url": "https://www.amazon.com/TCL-06-IRPT32-IRC280-Remote-Control/dp/B07MH4J1M8"
+            }
+        ]
+    },
+    {
+        "model": "NS-50DF710NA19",
+        "brand": "Insignia",
+        "remote_model": "NS-RCFNA-19",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61nI8s5y6sL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RCFNA-19)",
+                "url": "https://www.amazon.com/Insignia-NS-RCFNA-19-Replacement-Control-NS-39DF510NA19/dp/B07KXH7J1G"
+            }
+        ]
+    },
+    {
+        "model": "50UK6500AUA",
+        "brand": "LG",
+        "remote_model": "AKB75375604",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71QvN6nAOfL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75375604)",
+                "url": "https://www.amazon.com/LG-AKB75375604-Remote-Control/dp/B07Q2Z9Z2X"
+            }
+        ]
+    },
+    {
+        "model": "XBR-55X900H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "V705-H13",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "UN75TU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
+    {
+        "model": "UN50AU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
+    {
+        "model": "OLED55CXPUA",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
+    },
+    {
+        "model": "XBR-65A8H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX810U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61fG0LJvMEL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX810U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX810U-Replacement-Remote-Control/dp/B08F4DTQ8Z"
+            }
+        ]
+    },
+    {
+        "model": "M55Q7-J01",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "50S535",
+        "brand": "TCL",
+        "remote_model": "RC580",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC580)",
+                "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
+            }
+        ]
+    },
+    {
+        "model": "NS-55F301NA22",
+        "brand": "Insignia",
+        "remote_model": "NS-RC4NA-18",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RC4NA-18)",
+                "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
+            }
+        ]
+    },
+    {
+        "model": "QN85A",
+        "brand": "Samsung",
+        "remote_model": "BN59-01385B",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01385B)",
+                "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
+            }
+        ]
+    },
+    {
+        "model": "OLED65B1PUA",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
+    },
+    {
+        "model": "XBR-55X900H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "V655-J09",
+        "brand": "Vizio",
+        "remote_model": "XRT260",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61gYQp9MHlL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT260)",
+                "url": "https://www.amazon.com/Remote-Control-XRT260-V655-J09-V555-J01/dp/B09FPC3Z2W"
+            }
+        ]
+    },
+    {
+        "model": "UN55AU8000FXZA",
+        "brand": "Samsung",
+        "remote_model": "BN59-01357A",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61qX1yM5G-L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01357A)",
+                "url": "https://www.amazon.com/Samsung-BN59-01357A-Remote-Control/dp/B086KXG2F1"
+            }
+        ]
+    },
+    {
+        "model": "OLED65C1PUB",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
+    },
+    {
+        "model": "XBR-75X800H",
+        "brand": "Sony",
+        "remote_model": "RMF-TX500U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71rZpLzGmML._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX500U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX500U-Replacement-Remote-Control/dp/B089M45B3B"
+            }
+        ]
+    },
+    {
+        "model": "V755-G4",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "65S535",
+        "brand": "TCL",
+        "remote_model": "RC580",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC580)",
+                "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
+            }
+        ]
+    },
+    {
+        "model": "NS-43F301NA22",
+        "brand": "Insignia",
+        "remote_model": "NS-RC4NA-18",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RC4NA-18)",
+                "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
+            }
+        ]
+    },
+    {
+        "model": "QN90A",
+        "brand": "Samsung",
+        "remote_model": "BN59-01385B",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01385B)",
+                "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
+            }
+        ]
+    },
+    {
+        "model": "OLED77C2PUA",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
+    },
+    {
+        "model": "XBR-85X900F",
+        "brand": "Sony",
+        "remote_model": "RMF-TX310U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX310U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
+            }
+        ]
+    },
+    {
+        "model": "V436-H11",
+        "brand": "Vizio",
+        "remote_model": "XRT140",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61HBxj2%2B2gL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT140)",
+                "url": "https://www.amazon.com/Remote-XRT140-Vizio-V-Series-Television/dp/B07SB9QDPK"
+            }
+        ]
+    },
+    {
+        "model": "43S535",
+        "brand": "TCL",
+        "remote_model": "RC580",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC580)",
+                "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
+            }
+        ]
+    },
+    {
+        "model": "NS-24F202NA23",
+        "brand": "Insignia",
+        "remote_model": "NS-RC4NA-18",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RC4NA-18)",
+                "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
+            }
+        ]
+    },
+    {
+        "model": "QN800A",
+        "brand": "Samsung",
+        "remote_model": "BN59-01385B",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01385B)",
+                "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
+            }
+        ]
+    },
+    {
+        "model": "OLED48A1PUA",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
+    },
+    {
+        "model": "XBR-65X900F",
+        "brand": "Sony",
+        "remote_model": "RMF-TX310U",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61zqQq9n8lL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RMF-TX310U)",
+                "url": "https://www.amazon.com/Sony-RMF-TX310U-Replacement-Remote/dp/B07CWTZVJ4"
+            }
+        ]
+    },
+    {
+        "model": "V555-J01",
+        "brand": "Vizio",
+        "remote_model": "XRT260",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61gYQp9MHlL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (XRT260)",
+                "url": "https://www.amazon.com/Remote-Control-XRT260-V655-J09-V555-J01/dp/B09FPC3Z2W"
+            }
+        ]
+    },
+    {
+        "model": "50S531",
+        "brand": "TCL",
+        "remote_model": "RC580",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/71HEuQhXc2L._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (RC580)",
+                "url": "https://www.amazon.com/Replacement-Control-06-IRPT32-IRC280-06-IRPT20-IRC280/dp/B08CX5D4Q7"
+            }
+        ]
+    },
+    {
+        "model": "NS-50F301NA22",
+        "brand": "Insignia",
+        "remote_model": "NS-RC4NA-18",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61eXDzG%2BDrL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (NS-RC4NA-18)",
+                "url": "https://www.amazon.com/Insignia-NS-RC4NA-18-Replacement-Control-NS-55F301NA22/dp/B08KZK4Y2N"
+            }
+        ]
+    },
+    {
+        "model": "QN900A",
+        "brand": "Samsung",
+        "remote_model": "BN59-01385B",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/81C3xg9j3yL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (BN59-01385B)",
+                "url": "https://www.amazon.com/Samsung-BN59-01385B-Remote-Control/dp/B093P7VWDK"
+            }
+        ]
+    },
+    {
+        "model": "OLED77G2PUA",
+        "brand": "LG",
+        "remote_model": "AKB75855501",
+        "remote_image": "https://images-na.ssl-images-amazon.com/images/I/61W-3bF1iNL._AC_SL1500_.jpg",
+        "buy_links": [
+            {
+                "name": "Amazon (AKB75855501)",
+                "url": "https://www.amazon.com/LG-AKB75855501-Remote-Control/dp/B08D3V3P8S"
+            }
+        ]
     }
-  ]
+]
 }
 ]
